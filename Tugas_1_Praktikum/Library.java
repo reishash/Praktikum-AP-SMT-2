@@ -1,7 +1,6 @@
 package Tugas_1_Praktikum;
 public class Library {
     public static String[][] 
-    
     Teknologi = {
         {"What To Expect When You’re Expecting Robots: The Future of Human-Robot Collaboration", "Laura Major, Julie Shah", "2020", "304"},
         {"My Robot Gets Me: How Social Design Can Make New Products More Human", "Carla Diana", "2021", "305"},
