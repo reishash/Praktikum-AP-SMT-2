@@ -8,7 +8,7 @@ public class List {
         System.out.println("1. Teknologi\n2. Filsafat\n3. Sejarah\n4. Agama\n5. Psikologi\n6. Politik\n7. Fiksi");
         System.out.println("8. Tampilkan Semua Buku");
         System.out.println("0. Keluar");
-        System.out.print("Masukkan nomor kategori atau pilihan Anda: ");
+        System.out.print("\nMasukkan nomor kategori atau pilihan Anda: ");
     }
     public static void Kategori(int kategori) {
         String[][] buku = CategoryDisplayer.getBuku(kategori);

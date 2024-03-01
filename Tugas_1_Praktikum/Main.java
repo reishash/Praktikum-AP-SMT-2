@@ -41,6 +41,7 @@ public class Main {
             }
         } while (!exit);
         System.out.println("\nTerima kasih telah berkunjung di Perpustakaan online!");
+        System.out.println("---------------------------------------------------------------");
         scan.close(); 
     }
 }
