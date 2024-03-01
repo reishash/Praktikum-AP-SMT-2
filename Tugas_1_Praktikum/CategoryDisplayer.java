@@ -2,6 +2,7 @@ package Tugas_1_Praktikum;
 
 public class CategoryDisplayer {
     static String namaKategori;
+    
     static String[][] getBuku(int kategori) {
         switch(kategori) {
             case 1:
