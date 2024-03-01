@@ -10,6 +10,7 @@ public class List {
         System.out.println("0. Keluar");
         System.out.print("\nMasukkan nomor kategori atau pilihan Anda: ");
     }
+
     public static void Kategori(int kategori) {
         String[][] buku = CategoryDisplayer.getBuku(kategori);
         System.out.println("\nBerikut adalah daftar buku dalam kategori " + CategoryDisplayer.namaKategori + ":\n");
@@ -21,6 +22,7 @@ public class List {
             System.out.println("---------------------------------------------------------------");
         }
     }
+    
     public static void All() {
         for (int i = 1; i < 8; i++) {
             Kategori(i);
