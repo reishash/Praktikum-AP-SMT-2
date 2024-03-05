@@ -10,10 +10,10 @@ public class Library {
         
     Filsafat = {
         {"Being and Time", "Martin Heidegger", "1927", "589"},
-        {"Filsafat Ilmu – Welhendri Azwar dan Muliono", "Welhendri Azwar dan Muliono", "2018", "200"},
-        {"Paradigma Filsafat Ekonomi Islam Musa Asy`Arie – Zaprulkhan", "Zaprulkhan", "2019", "180"},
-        {"Filsafat Keadilan – Dr. Drs. H. Amran Suadi, S.h., M.hum., M.m.", "Dr. Drs. H. Amran Suadi, S.h., M.hum., M.m.", "2020", "210"},
-        {"Filsafat Agama – Amsal Bakhtiar", "Amsal Bakhtiar", "2021", "230"}},
+        {"Filsafat Ilmu", "Welhendri Azwar dan Muliono", "Welhendri Azwar dan Muliono", "2018", "200"},
+        {"Paradigma Filsafat Ekonomi Islam Musa Asy`Arie", "Zaprulkhan", "Zaprulkhan", "2019", "180"},
+        {"Filsafat Keadilan", "Dr. Drs. H. Amran Suadi, S.h., M.hum., M.m.", "Dr. Drs. H. Amran Suadi, S.h., M.hum., M.m.", "2020", "210"},
+        {"Filsafat Agama", "Amsal Bakhtiar", "Amsal Bakhtiar", "2021", "230"}},
     
     Sejarah = {
         {"The Republic", "Plato", "380 BC", "320"},
@@ -24,7 +24,7 @@ public class Library {
         
     Agama = {
         {"Brianna dan Bottomwise", "Andrea Hirata", "2021", "120"},
-        {"Terdidik (Educated) – Sebuah Memoar", "Tara Westover", "2018", "352"},
+        {"Terdidik (Educated)", "Sebuah Memoar", "Tara Westover", "2018", "352"},
         {"Man Boy", "Aliazalea", "2021", "320"},
         {"Tiga dalam Kayu", "Ziggy Zezsyazeoviennazabrizkie", "2021", "288"},
         {"Seni Membaca Kepribadian Orang", "Gregory G. Young", "2021", "256"}},
@@ -45,7 +45,7 @@ public class Library {
         
     Fiksi = {
         {"Pintu Harmonika", "Clara Ng and Icha Rahmanti", "2011", "128"},
-        {"Harry Potter and The Philosopher’s Stone", "JK Rowling", "1997", "223"},
+        {"Harry Potter and The Philosopher's Stone", "JK Rowling", "1997", "223"},
         {"Negeri 5 Menara", "Ahmad Fuadi", "2009", "424"},
         {"Moon atau Bulan", "Tere Liye", "2021", "320"},
         {"Seperti Dendam, Rindu Harus Dibayar Tuntas", "Eka Kurniawan", "2014", "424"}};
