@@ -4,14 +4,14 @@ import java.util.Scanner;
 
 public class List {
     public static void Display() {
-            System.out.printf("---------------------------------------------------------------\n");
-            System.out.printf("Selamat datang di Perpustakaan Online!\n\n");
-            System.out.printf("Silakan pilih kategori atau apa yang ingin Anda lakukan:\n");
-            System.out.printf("1. Teknologi\n2. Filsafat\n3. Sejarah\n4. Agama\n5. Psikologi\n6. Politik\n7. Fiksi\n");
-            System.out.printf("8. Tampilkan Semua Buku\n");
-            System.out.printf("9. Cek kesamaan 2 Buku");
-            System.out.printf("0. Keluar\n");
-            System.out.printf("\nMasukkan nomor kategori atau pilihan Anda: ");
+            System.out.print("---------------------------------------------------------------\n");
+            System.out.print("Selamat datang di Perpustakaan Online!\n\n");
+            System.out.print("Silakan pilih kategori atau apa yang ingin Anda lakukan:\n");
+            System.out.print("1. Teknologi\n2. Filsafat\n3. Sejarah\n4. Agama\n5. Psikologi\n6. Politik\n7. Fiksi\n");
+            System.out.print("8. Tampilkan Semua Buku\n");
+            System.out.print("9. Cek kesamaan 2 Buku\n");
+            System.out.print("0. Keluar\n");
+            System.out.print("\nMasukkan nomor kategori atau pilihan Anda: ");
     }
 
     public static void Kategori(int kategori) {
