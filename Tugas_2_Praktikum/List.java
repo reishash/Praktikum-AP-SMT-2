@@ -56,6 +56,7 @@ public class List {
         }
     }
     public static void cekKesamaan() {
+        All();
         Scanner scan = new Scanner(System.in);
         System.out.println("Masukkan kategori dan indeks buku pertama (misal: Teknologi 1):");
         String input1 = scan.nextLine();
